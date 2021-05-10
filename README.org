@@ -1,0 +1,2 @@
+* Tally
+A Next JS tally-tracking tool
